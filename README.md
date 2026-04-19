@@ -1,4 +1,4 @@
-# 📊 Job Dashboard
+# Job Dashboard
 
 ## 📌 Overview
 The **Job Dashboard** is an interactive data visualization project built to analyze job market trends, salary insights, and demand across different roles in the data domain. It provides meaningful insights into job distribution, salary comparisons, and hiring trends.
